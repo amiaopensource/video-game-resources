@@ -27,7 +27,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - Connecting with international communities
 - Community archiving
 - Emulation
-- Gameplay 
+- Gameplay preservation
 - Standards for preservation
 
 ## Metadata schemas and controlled vocabularies 
