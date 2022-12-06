@@ -18,6 +18,11 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 - **title** (date) | [link](https://github.com/amiaopensource)
 
+## Metadata schemas and controlled vocabularies | [link](https://github.com/amiaopensource)
+
+- **A Conceptual Model and Metadata Schema for Video Games and Interactive Media** | [link](https://gamer.ischool.uw.edu/releases/test/)
+- **Game Metadata and Citation Project Controlled Vocabularies** | [link](https://gamemetadata.soe.ucsc.edu/media)
+
 ## How to Contribute
 
 Please add your own resources on video game preservation to the list above. Order does not dictate preference. Appropriate additions may include:
