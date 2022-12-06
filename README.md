@@ -67,6 +67,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **Library of Congress** | [link](https://loc.gov)
 - **Video Game History Foundation** | [link](https://gamehistory.org)
 - **American Classic Arcade Museum** | [link](https://www.classicarcademuseum.org)
+- **Computer History Museum** | [link](https://computerhistory.org)
 
 ## How to Contribute
 
