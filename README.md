@@ -27,6 +27,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - Connecting with international communities
 - Community archiving
 - Emulation
+- Copyright
 - Gameplay preservation
 - Standards for preservation
 - Corporate archives vs. educational institutions (e.g. museums)
