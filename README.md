@@ -26,8 +26,8 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 ## Metadata user analysis 
 
-- **Full Steam Ahead: A Conceptual Analysis of User-Supplied Tags on Steam** (05-01-2016) | [link]([https://gamer.ischool.uw.edu/releases/test/](https://www.tandfonline.com/doi/abs/10.1080/01639374.2016.1190951?journalCode=wccq20))
-- **Videogames metadata schema through the analysis of Steam user tags** (12-22-2017) | [link]([https://gamemetadata.soe.ucsc.edu/media])
+- **Full Steam Ahead: A Conceptual Analysis of User-Supplied Tags on Steam** (05-01-2016) | [link](https://gamer.ischool.uw.edu/releases/test/](https://www.tandfonline.com/doi/abs/10.1080/01639374.2016.1190951?journalCode=wccq20)
+- **Videogames metadata schema through the analysis of Steam user tags** (12-22-2017) | [link](https://gamemetadata.soe.ucsc.edu/media)
 
 ## How to Contribute
 
