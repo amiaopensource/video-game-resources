@@ -37,7 +37,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 ## Video game archives
 
 - **The Strong National Museum of Play** | [link](https://www.museumofplay.org)
-- **Museum of the Game** | [link] (https://www.arcade-museum.com)
+- **Museum of the Game** | [link](https://www.arcade-museum.com)
 
 ## How to Contribute
 
