@@ -34,6 +34,10 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **Empirical Evaluation of Metadata for Video Games and Interactive Media** | [link](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/33260/EmpiricalEvaluation_EDIT.pdf?sequence=1&isAllowed=y)
 - **Analog Game Metadata Schema: AGMS** | [link](https://nickschwieterman.info/elective-paper/)
 
+## Video game archives
+
+- **The Strong National Museum of Play** | [link](https://www.museumofplay.org)
+- **Museum of the Game** | [link] (https://www.arcade-museum.com)
 
 ## How to Contribute
 
