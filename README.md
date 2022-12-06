@@ -21,6 +21,14 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 ## Concerns and potential topics for exploration
 
 - Oral history
+- Widely accepted metadata schema
+- Controlled vocabulary
+- (Proprietary) Hardware and software 
+- Connecting with international communities
+- Community archiving
+- Emulation
+- Gameplay 
+- Standards for preservation
 
 ## Metadata schemas and controlled vocabularies 
 
