@@ -55,6 +55,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **EVE, offline: how do you archive a universe?** | [link](https://www.theverge.com/2014/2/24/5441866/eve-offline-how-do-you-archive-a-universe)
 - **Video Games: 14 in the Collection, for Starters** | [link](https://www.moma.org/explore/inside_out/2012/11/29/video-games-14-in-the-collection-for-starters/)
 - **The Variable Media Network** | [link](https://www.variablemedia.net/e/index.html)
+- **Aaru Data Preservation Suite** | [link](https://www.aaru.app/#/)
 
 ## Archives, libraries, etc.
 
