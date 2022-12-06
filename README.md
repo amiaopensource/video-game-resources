@@ -26,7 +26,7 @@ Please add your own resources on video game preservation to the list above. Orde
 - preservation plans
 - case studies
 
-For help contributing to this repository or other issues, please [submit a New Issue](https://github.com/amiaopensource/analog-inspection/issues/new) with your question and we'll get back to you.
+For help contributing to this repository or other issues, please [submit a New Issue](https://github.com/amiaopensource/video-game-resources/issues/new) with your question and we'll get back to you.
 
 ### Code of Conduct
 
