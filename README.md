@@ -18,6 +18,10 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 - **title** (date) | [link](https://github.com/amiaopensource)
 
+## Concerns and potential topics for exploration
+
+- insert here
+
 ## Metadata schemas and controlled vocabularies 
 
 - **A Conceptual Model and Metadata Schema for Video Games and Interactive Media** (latest release 9-16-2020) | [link](https://gamer.ischool.uw.edu/releases/test/)
@@ -28,16 +32,22 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 - **Full Steam Ahead: A Conceptual Analysis of User-Supplied Tags on Steam** (05-01-2016) | [link](https://www.tandfonline.com/doi/abs/10.1080/01639374.2016.1190951?journalCode=wccq20)
 - **Videogames metadata schema through the analysis of Steam user tags** (12-22-2017) | [link](https://digitalarchives.upd.edu.ph/item/25411)
+- **Metadata Virtual Reality User Study** | [link](https://www.christinawr.com/metadata-user-study)
 
 ## Additional reading and resources
 
 - **Empirical Evaluation of Metadata for Video Games and Interactive Media** | [link](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/33260/EmpiricalEvaluation_EDIT.pdf?sequence=1&isAllowed=y)
 - **Analog Game Metadata Schema: AGMS** | [link](https://nickschwieterman.info/elective-paper/)
+- **UCLA Game Lab** | [link](http://games.ucla.edu)
+- **Software Preservation Network** | [link](https://www.softwarepreservationnetwork.org)
+- **Pixelvetica (Language: French)** | [link](https://www.pixelvetica.ch)
+- **Preserving Virtual Worlds** | [link](https://library.stanford.edu/projects/preserving-virtual-worlds)
 
 ## Video game archives
 
 - **The Strong National Museum of Play** | [link](https://www.museumofplay.org)
 - **Museum of the Game** | [link](https://www.arcade-museum.com)
+- **Library of Congress** | [link](https://loc.gov)
 
 ## How to Contribute
 
