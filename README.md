@@ -58,6 +58,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **Video Games: 14 in the Collection, for Starters** | [link](https://www.moma.org/explore/inside_out/2012/11/29/video-games-14-in-the-collection-for-starters/)
 - **The Variable Media Network** | [link](https://www.variablemedia.net/e/index.html)
 - **Aaru Data Preservation Suite** | [link](https://www.aaru.app/#/)
+- **Leveling Up Emulation: The Benefits of Field-Programmable Gate Arrays in Video Game Preservation** | [link](https://miap.hosting.nyu.edu/program/student_work/2022spring/22s_thesis_Stetz_deposit_copy_y.pdf)
 
 ## Archives, libraries, etc.
 
