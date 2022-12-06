@@ -29,6 +29,12 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **Full Steam Ahead: A Conceptual Analysis of User-Supplied Tags on Steam** (05-01-2016) | [link](https://www.tandfonline.com/doi/abs/10.1080/01639374.2016.1190951?journalCode=wccq20)
 - **Videogames metadata schema through the analysis of Steam user tags** (12-22-2017) | [link](https://digitalarchives.upd.edu.ph/item/25411))
 
+## Additional reading and resources
+
+- **Empirical Evaluation of Metadata for Video Games and Interactive Media** | [link](https://digital.lib.washington.edu/researchworks/bitstream/handle/1773/33260/EmpiricalEvaluation_EDIT.pdf?sequence=1&isAllowed=y)
+- **Analog Game Metadata Schema: AGMS** | [link](https://nickschwieterman.info/elective-paper/))
+
+
 ## How to Contribute
 
 Please add your own resources on video game preservation to the list above. Order does not dictate preference. Appropriate additions may include:
