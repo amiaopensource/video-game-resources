@@ -29,6 +29,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - Emulation
 - Gameplay preservation
 - Standards for preservation
+- Corporate archives
 - Ancillary material (e.g. marketing assets, box art, etc.)
 
 ## Metadata schemas and controlled vocabularies 
