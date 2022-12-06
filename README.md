@@ -20,7 +20,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 ## Concerns and potential topics for exploration
 
-- insert here
+- Oral history
 
 ## Metadata schemas and controlled vocabularies 
 
@@ -41,13 +41,19 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **UCLA Game Lab** | [link](http://games.ucla.edu)
 - **Software Preservation Network** | [link](https://www.softwarepreservationnetwork.org)
 - **Pixelvetica (Language: French)** | [link](https://www.pixelvetica.ch)
+- **GameLab UNIL-EPFL (Language: French)** | [link](https://wp.unil.ch/gamelab/)
 - **Preserving Virtual Worlds** | [link](https://library.stanford.edu/projects/preserving-virtual-worlds)
+- **EVE, offline: how do you archive a universe?** | [link](https://www.theverge.com/2014/2/24/5441866/eve-offline-how-do-you-archive-a-universe)
+- **Video Games: 14 in the Collection, for Starters** | [link](https://www.moma.org/explore/inside_out/2012/11/29/video-games-14-in-the-collection-for-starters/)
+- **The Variable Media Network** | [link](https://www.variablemedia.net/e/index.html)
 
-## Video game archives
+## Archives, libraries, etc.
 
 - **The Strong National Museum of Play** | [link](https://www.museumofplay.org)
 - **Museum of the Game** | [link](https://www.arcade-museum.com)
 - **Library of Congress** | [link](https://loc.gov)
+- **Video Game History Foundation** | [link](https://gamehistory.org)
+- **American Classic Arcade Museum** | [link](https://www.classicarcademuseum.org)
 
 ## How to Contribute
 
