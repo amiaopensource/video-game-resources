@@ -18,10 +18,16 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 - **title** (date) | [link](https://github.com/amiaopensource)
 
-## Metadata schemas and controlled vocabularies | [link](https://github.com/amiaopensource)
+## Metadata schemas and controlled vocabularies 
 
-- **A Conceptual Model and Metadata Schema for Video Games and Interactive Media** | [link](https://gamer.ischool.uw.edu/releases/test/)
-- **Game Metadata and Citation Project Controlled Vocabularies** | [link](https://gamemetadata.soe.ucsc.edu/media)
+- **A Conceptual Model and Metadata Schema for Video Games and Interactive Media** (latest release 9-16-2020) | [link](https://gamer.ischool.uw.edu/releases/test/)
+- **Game Metadata and Citation Project Controlled Vocabularies** (accessed 12-6-2022) | [link](https://gamemetadata.soe.ucsc.edu/media)
+- **Library of Congress Recommended Formats Statement - Software and Video Games** (accessed 12-6-2022) | [link](https://www.loc.gov/preservation/resources/rfs/software-videogames.html)
+
+## Metadata user analysis 
+
+- **Full Steam Ahead: A Conceptual Analysis of User-Supplied Tags on Steam** (05-01-2016) | [link]([https://gamer.ischool.uw.edu/releases/test/](https://www.tandfonline.com/doi/abs/10.1080/01639374.2016.1190951?journalCode=wccq20))
+- **Videogames metadata schema through the analysis of Steam user tags** (accessed 12-22-2017) | [link]([https://gamemetadata.soe.ucsc.edu/media](https://digitalarchives.upd.edu.ph/item/25411))
 
 ## How to Contribute
 
