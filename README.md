@@ -81,7 +81,7 @@ For help contributing to this repository or other issues, please [submit a New I
 
 ### Code of Conduct
 
-Actions taken in this repository, associated pull requests and issue tracker forms should adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/1/4/code-of-conduct) guidelines.
+Actions taken in this repository, associated pull requests and issue tracker forms should adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) guidelines.
 
 ### Copyright
 
