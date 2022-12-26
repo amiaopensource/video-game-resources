@@ -5,18 +5,17 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 
 ## Contents
 
-* [Templates/Forms](#templatesforms)
-* [Identification Resources](#identification-resources)
+* [Concerns and potential topics for exploration](#concerns-and-potential-topics-for-exploration)
+* [Metadata schemas and controlled vocabularies](#metadata-schemas-and-controlled-vocabularies)
+* [Metadata user analysis](#metadata-user-analysis)
+* [Additional reading and resources](#additional-reading-and-resources)
+* [Archives, libraries, etc.](#archives-libraries-etc)
 * [How to Contribute](#how-to-contribute)
 * [Code of Conduct](#code-of-conduct)
 * [Copyright](#copyright)
 * [Acknowledgements](#acknowledgements)
 
 ---
-
-## Template section title
-
-- **title** (date) | [link](https://github.com/amiaopensource)
 
 ## Concerns and potential topics for exploration
 
@@ -79,11 +78,11 @@ Please add your own resources on video game preservation to the list above. Orde
 
 For help contributing to this repository or other issues, please [submit a New Issue](https://github.com/amiaopensource/video-game-resources/issues/new) with your question and we'll get back to you.
 
-### Code of Conduct
+## Code of Conduct
 
 Actions taken in this repository, associated pull requests and issue tracker forms should adhere to the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/) guidelines.
 
-### Copyright
+## Copyright
 
 tk
 
