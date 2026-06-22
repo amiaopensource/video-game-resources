@@ -50,7 +50,7 @@ Sibling repositories: [open-workflows](https://github.com/amiaopensource/open-wo
 - **Analog Game Metadata Schema: AGMS** | [link](https://nickschwieterman.info/elective-paper/)
 - **UCLA Game Lab** | [link](http://games.ucla.edu)
 - **Software Preservation Network** | [link](https://www.softwarepreservationnetwork.org)
-- **Pixelvetica (Language: French)** | [link]([https://www.pixelvetica.ch](https://memoriav.ch/fr/projet/la-sauvegarde-des-jeux-video-suisses-letude))
+- **Pixelvetica (Language: French)** | [link](https://memoriav.ch/fr/projet/la-sauvegarde-des-jeux-video-suisses-letude)
 - **GameLab UNIL-EPFL (Language: French)** | [link](https://wp.unil.ch/gamelab/)
 - **Preserving Virtual Worlds** | [link](https://library.stanford.edu/projects/preserving-virtual-worlds)
 - **EVE, offline: how do you archive a universe?** | [link](https://www.theverge.com/2014/2/24/5441866/eve-offline-how-do-you-archive-a-universe)
